@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio - Alex Rivera
+# 🛡️ ALEX RIVERA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/alexrivera)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/alexrivera)
