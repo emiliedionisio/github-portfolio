@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/alexrivera)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/alexrivera)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/12345)
-[![LinkedIn](https://img.shields.io/badge/Credly-orange)](https://credly.com)
+[![Credly](https://img.shields.io/badge/Profile-orange)](https://credly.com)
 ## 👋 About Me
 
 Cybersecurity professional with expertise in penetration testing, security automation, and incident response. Currently completing a Cybersecurity Fellowship with hands-on experience in network security, threat detection, and vulnerability assessment. Passionate about defending digital infrastructure and staying ahead of emerging threats.
